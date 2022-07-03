@@ -1,0 +1,9 @@
+# Dependency directory
+node_modules
+package-lock.json
+
+#Execution reports
+mochawesome-report
+
+#Environment variables
+.env
